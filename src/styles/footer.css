@@ -1,0 +1,21 @@
+.footer {
+	margin-top: 76px;
+	background: black;
+	background-color: black;
+	padding-left: 76px;
+}
+.footer h1 {
+	padding-top: 76px;
+	margin-bottom: 30px;
+}
+.social {
+	display: flex;
+	justify-content: center;
+	column-gap: 20px;
+	padding-bottom: 76px;
+}
+.copyright {
+	display: flex;
+	justify-content: center;
+	padding-bottom: 46px;
+}
